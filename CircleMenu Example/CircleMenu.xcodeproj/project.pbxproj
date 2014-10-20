@@ -434,6 +434,7 @@
 				732EA56B19F539FC00DFE60D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		732EA56C19F539FC00DFE60D /* Build configuration list for PBXNativeTarget "CircleMenuTests" */ = {
 			isa = XCConfigurationList;
@@ -442,6 +443,7 @@
 				732EA56E19F539FC00DFE60D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

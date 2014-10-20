@@ -8,7 +8,6 @@
 
 #import "ViewController.h"
 
-
 @interface ViewController ()
 
 @end
@@ -54,6 +53,7 @@
             NSLog(@"3");
             break;
         case 4:
+            NSLog(@"4");
             break;
         case 5:
             NSLog(@"5");
